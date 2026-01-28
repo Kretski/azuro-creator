@@ -1,8 +1,5 @@
 # azuro-creator
 AZURO Creator — AI tool that automatically discovers physical/mathematical laws from input-output data (CSV). Generates interpretable hypotheses, evaluates accuracy (R²), and provides real-world recommendations. Offline, local, no cloud required.
-Absolutely! We can make the text clearer, more attractive and more structured, while also highlighting the benefits of AZURO Creator and making it easier to quickly understand the product. Here is a suggestion for an improved version:
-
----
 
 # **AZURO Creator**
 
