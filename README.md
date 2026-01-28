@@ -78,7 +78,78 @@ Anyone curious about data → equation discovery
 🔬 Core Idea
 
 AZURO Creator bridges the gap between data-driven AI and scientific law discovery, bringing symbolic reasoning back into practical data analysis — directly on your machine.
+🌌 Vision
 
+AZURO Creator is built on a simple but powerful idea:
+
+AI should not only predict — it should help discover the laws behind the data.
+
+While most modern AI systems focus on black-box prediction, AZURO explores a different direction:
+turning data into interpretable mathematical structure.
+
+The long-term vision goes beyond a single application.
+
+🔬 From Data → Laws
+
+AZURO aims to bridge the gap between:
+
+Data-driven AI
+
+Scientific modeling
+
+Symbolic reasoning
+
+Instead of producing opaque models, the goal is to enable automated discovery of equations that describe real-world systems — from experimental measurements to engineered processes.
+
+⚙️ Toward Symbolic AI for Engineering
+
+Future development targets:
+
+Discovery of multi-variable and dynamic system relationships
+
+Constraint-aware equation search (physics-informed discovery)
+
+Support for engineering diagrams, system structures, and model priors
+
+Use in system identification and simulation model extraction
+
+AZURO is moving toward becoming an AI assistant for modeling physical and technical systems, not just a data analysis tool.
+
+🤖 Beyond Software — Toward Edge & Hardware
+
+Interpretable laws have a unique advantage over neural models:
+
+They can run anywhere.
+
+Symbolic models discovered by AZURO can be translated into:
+
+Lightweight embedded code
+
+DSP algorithms
+
+Control systems
+
+FPGA/ASIC implementations
+
+This opens a path toward symbolic edge AI, where discovered physical relationships become part of real-time systems and hardware.
+
+🧠 AI-Assisted Scientific Discovery
+
+AZURO represents a step toward a broader idea:
+
+AI as a tool for hypothesis generation and scientific insight.
+
+By helping uncover candidate laws from data, systems like AZURO could accelerate research cycles, support experimental analysis, and assist in exploring complex systems where explicit models are unknown.
+
+🎯 Long-Term Direction
+
+AZURO Creator explores a shift from:
+
+Pattern recognition → Rule discovery
+Prediction → Understanding
+Models → Laws
+
+The vision is to build technology that helps transform raw data into structured knowledge — usable in software, engineering systems, and eventually hardware itself.
 📄 License
 
 MIT License
