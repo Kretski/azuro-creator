@@ -5,7 +5,24 @@ AZURO Creator is a local AI tool that automatically extracts interpretable equat
 Instead of training black-box models, it generates human-readable mathematical hypotheses, evaluates their accuracy (R²), and suggests real-world insights.
 
 Upload data → get the formula.
+Exploring neuro-symbolic ideas in practice: an offline tool that uses ML diagnostics to guide symbolic equation discovery.
 
+Quick raw console demo on partially synthetic data:
+
+https://youtu.be/ozjpEiNSDKc
+
+Result: recovers y = x₁² (x₁ ≤ 5) / y = x₁·sin(x₃) (x₁ > 5) – completely local, cloud-free.
+
+Early prototype testing whether ML behavioral priors can effectively constrain symbolic search.
+
+Thoughts from the group:
+- A viable direction for neuro-symbolic AI?
+- Biggest challenges you see in hybrid ML-symbolic pipelines?
+- Any similar approaches you’ve seen/tested?
+
+Repository: https://github.com/Kretski/azuro-creator
+
+Open for feedback!
 🧠 What Makes It Different
 
 Most ML tools give you predictions.
